@@ -1,0 +1,16 @@
+npm start
+
+npm install --save express body-parser morgan
+
+npm i -D nodemon
+
+     "start": "nodemon app.js",
+
+npm install -g sequelize-cli
+
+npm install --save sequelize
+npm install --save mysql2
+
+
+
+http://localhost:8000/api/tema/create/nombre/uno/descripcion/'un moonton de ppriimaveras'/prioridad/1
